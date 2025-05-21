@@ -2,6 +2,6 @@
 
 ### Description
 * Countdown timer
-* Made from HTML and CSS for use on GitHub Pages
+* https://sakeofmaking.github.io/countdown-page/
 * Date is entered in format YYYY-MM-DDThh:mm:ss
 

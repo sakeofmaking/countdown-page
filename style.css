@@ -17,7 +17,7 @@ body {
 
 #message {
     font-family: century gothic, sans-serif;
-    font-size: 40px;
+    font-size: 20px;
     color: rgb(230,230,230);
     display: inline-block;
 }
@@ -30,7 +30,7 @@ body {
     text-align: center;
     white-space: nowrap;
     /* font-size: 200px; */
-    font-size: 14vw;
+    font-size: 7vw;
 }
 
 #clockdiv > div{
@@ -49,6 +49,6 @@ body {
 
 .smalltext{
     padding-top: 5px;
-    font-size: 40px;
+    font-size: 20px;
     color: rgb(230,230,230);
 }
