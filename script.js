@@ -13,7 +13,7 @@ $(document).ready(function () {
             $('#hours').text('00');
             $('#minutes').text('00');
             $('#seconds').text('00');
-            $('#message').text('CLOSED!');
+            $('#message').text('FREEDOM!');
             clearInterval(timeinterval);
             return;
         }
